@@ -17,3 +17,5 @@
 
 #Others:
 /bin/
+.idea/
+*.iml
